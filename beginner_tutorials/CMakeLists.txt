@@ -170,6 +170,8 @@ catkin_install_python(
   scripts/temp_sub.py
   scripts/turtle_circle.py
   scripts/turtle_monitor.py
+  scripts/add_two_ints_server.py
+  scripts/add_two_ints_client.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 ## Mark executables for installation
